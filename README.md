@@ -26,7 +26,7 @@ After than run these 3 prompts
 ```
 cd YOURCOMPANYNAMETrainerTools
 npm install
-npm rum dev
+npm run dev
 ```
 
 Open a browser on the link that is in the terminal.
